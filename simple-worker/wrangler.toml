@@ -1,0 +1,6 @@
+name = "simple-worker"
+type = "javascript"
+
+account_id = "cfd48ab55db30666d4f5b67076d021c8"
+workers_dev = true
+compatibility_date = "2024-06-01"
